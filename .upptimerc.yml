@@ -9,7 +9,7 @@ sites:
     url: https://en.wikipedia.org
   - name: VividCraft
     url: https://vividcraft.com.au
-    - name: CareFullyPlanned
+  - name: CareFullyPlanned
     url: https://www.carefullyplanned.com.au
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
