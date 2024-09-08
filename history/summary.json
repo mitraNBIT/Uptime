@@ -16,7 +16,7 @@
     "timeMonth": 4260,
     "timeYear": 4260,
     "dailyMinutesDown": {
-      "2024-09-08": 1075,
+      "2024-09-08": 1669,
       "2024-09-07": 2880,
       "2024-09-06": 1502
     }
@@ -26,18 +26,20 @@
     "url": "https://os.mitramanikhanal.com.np",
     "icon": "https://icons.duckduckgo.com/ip3/os.mitramanikhanal.com.np.ico",
     "slug": "main-os",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 887,
-    "timeDay": 920,
-    "timeWeek": 887,
-    "timeMonth": 887,
-    "timeYear": 887,
-    "dailyMinutesDown": {}
+    "time": 821,
+    "timeDay": 508,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -62,18 +64,19 @@
     "url": "https://vividcraft.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/vividcraft.com.au.ico",
     "slug": "vivid-craft",
-    "status": "up",
-    "uptime": "88.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.73%",
-    "uptimeMonth": "88.73%",
-    "uptimeYear": "88.73%",
-    "time": 985,
-    "timeDay": 916,
-    "timeWeek": 985,
-    "timeMonth": 985,
-    "timeYear": 985,
+    "status": "down",
+    "uptime": "90.43%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "90.43%",
+    "uptimeMonth": "90.43%",
+    "uptimeYear": "90.43%",
+    "time": 911,
+    "timeDay": 548,
+    "timeWeek": 911,
+    "timeMonth": 911,
+    "timeYear": 911,
     "dailyMinutesDown": {
+      "2024-09-08": 0,
       "2024-09-06": 376
     }
   },
