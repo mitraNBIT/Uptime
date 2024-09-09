@@ -17,14 +17,14 @@ sites:
     url: https://app.carefullyplanned.com.au
   - name: INS-PC
     url: https://rdp.nipponschoolnepal.com   
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-skipDeleteIssues: true
+#   - name: Test Broken Site
+#     url: https://thissitedoesnotexist.koj.co
+#   - name: IPv6 test
+#     url: forwardemail.net
+#     port: 80
+#     check: "tcp-ping"
+#     ipv6: true
+# skipDeleteIssues: true
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
