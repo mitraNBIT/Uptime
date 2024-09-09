@@ -17,6 +17,8 @@ sites:
     url: https://app.carefullyplanned.com.au
   - name: INS-PC
     url: https://rdp.nipponschoolnepal.com   
+  - name: MSK
+    url: $NET 
 #   - name: Test Broken Site
 #     url: https://thissitedoesnotexist.koj.co
 #   - name: IPv6 test
