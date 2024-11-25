@@ -4,7 +4,7 @@ repo: Uptime # The name of this repository
 
 sites:
   - name: MSK-L2
-    url: $MSK-L2
+    url: $MSK_L2
   - name: Main OS
     url: https://os.mitramanikhanal.com.np
   - name: Wikipedia
