@@ -6,7 +6,7 @@
     "slug": "msk-l2",
     "status": "down",
     "uptime": "22.26%",
-    "uptimeDay": "59.48%",
+    "uptimeDay": "59.05%",
     "uptimeWeek": "37.11%",
     "uptimeMonth": "31.97%",
     "uptimeYear": "22.26%",
@@ -16,7 +16,7 @@
     "timeMonth": 3503,
     "timeYear": 4617,
     "dailyMinutesDown": {
-      "2024-12-05": 584,
+      "2024-12-05": 590,
       "2024-12-04": 757,
       "2024-12-03": 730,
       "2024-12-02": 1219,
@@ -318,19 +318,19 @@
     "url": "$NET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "msk",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 1071,
     "timeDay": 1297,
     "timeWeek": 1160,
     "timeMonth": 1158,
     "timeYear": 1071,
     "dailyMinutesDown": {
-      "2024-12-05": 49
+      "2024-12-05": 44
     }
   }
 ]
