@@ -1,7 +1,7 @@
 url: $NET
-status: down
-code: 503
-responseTime: 150
-lastUpdated: 2024-12-18T17:11:55.881Z
+status: up
+code: 200
+responseTime: 801
+lastUpdated: 2024-12-18T17:29:08.860Z
 startTime: 2024-09-09T06:29:07.176Z
 generator: Upptime <https://github.com/upptime/upptime>
