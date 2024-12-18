@@ -1,7 +1,7 @@
 url: https://rdp.nipponschoolnepal.com
-status: up
-code: 200
-responseTime: 820
-lastUpdated: 2024-12-17T23:13:54.432Z
+status: down
+code: 502
+responseTime: 1408
+lastUpdated: 2024-12-18T06:15:15.365Z
 startTime: 2024-09-09T05:25:11.647Z
 generator: Upptime <https://github.com/upptime/upptime>
