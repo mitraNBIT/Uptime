@@ -4,17 +4,17 @@
     "url": "$MSK_L2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "msk-l2",
-    "status": "up",
-    "uptime": "81.01%",
-    "uptimeDay": "15.14%",
-    "uptimeWeek": "24.87%",
-    "uptimeMonth": "24.37%",
-    "uptimeYear": "81.01%",
-    "time": 2088,
-    "timeDay": 549,
-    "timeWeek": 634,
-    "timeMonth": 654,
-    "timeYear": 2088,
+    "status": "down",
+    "uptime": "81.28%",
+    "uptimeDay": "19.30%",
+    "uptimeWeek": "25.38%",
+    "uptimeMonth": "24.51%",
+    "uptimeYear": "81.28%",
+    "time": 2086,
+    "timeDay": 456,
+    "timeWeek": 618,
+    "timeMonth": 651,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2025-04-11": 166,
       "2025-04-10": 1222,
@@ -73,8 +73,7 @@
       "2025-02-16": 992,
       "2025-02-15": 1252,
       "2025-02-14": 907,
-      "2025-02-13": 810,
-      "2025-02-12": 626
+      "2025-02-13": 638
     }
   },
   {
