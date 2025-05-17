@@ -1,7 +1,7 @@
 url: $MSK_L2
-status: down
-code: 530
-responseTime: 69
-lastUpdated: 2025-05-16T23:14:59.172Z
+status: up
+code: 200
+responseTime: 750
+lastUpdated: 2025-05-17T11:43:36.255Z
 startTime: 2024-09-09T05:25:05.850Z
 generator: Upptime <https://github.com/upptime/upptime>
